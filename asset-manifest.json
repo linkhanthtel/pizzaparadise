@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/pizza-paradise/static/js/main.0d5200f6.js",
+    "static/media/frenchfries3.png": "/pizza-paradise/static/media/frenchfries3.ae6f1202b3987c9a2085.png",
+    "static/media/hamburger2.jpg": "/pizza-paradise/static/media/hamburger2.acbcd2133419d7c3096f.jpg",
+    "static/media/pizza5.jpg": "/pizza-paradise/static/media/pizza5.4f98d99093a3564727d1.jpg",
+    "static/media/hamburger3.jpg": "/pizza-paradise/static/media/hamburger3.d14283dbb77a1c493a0d.jpg",
+    "static/media/hamburger4.jpg": "/pizza-paradise/static/media/hamburger4.539ec65f93e875aca007.jpg",
+    "static/media/frechfries.jpg": "/pizza-paradise/static/media/frechfries.1a678b39d80b2c445e4e.jpg",
+    "static/media/pizza1.jpg": "/pizza-paradise/static/media/pizza1.5962c837b091b85206aa.jpg",
+    "static/media/hamburger1.jpg": "/pizza-paradise/static/media/hamburger1.f75e44b0785dda2a738f.jpg",
+    "static/media/pizza3.jpg": "/pizza-paradise/static/media/pizza3.c589655fc8e9324fa0d3.jpg",
+    "static/media/pizza4.jpg": "/pizza-paradise/static/media/pizza4.b210d10df44d83c89f8d.jpg",
+    "static/media/frenchfries2.jpg": "/pizza-paradise/static/media/frenchfries2.47b4da99ddbd6ee537ce.jpg",
+    "static/media/pizza2.jpg": "/pizza-paradise/static/media/pizza2.4986a630663537285715.jpg",
+    "static/media/pizza6.jpg": "/pizza-paradise/static/media/pizza6.d8ba615d52e110714e4e.jpg",
+    "index.html": "/pizza-paradise/index.html",
+    "main.0d5200f6.js.map": "/pizza-paradise/static/js/main.0d5200f6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0d5200f6.js"
+  ]
+}
