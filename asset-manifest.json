@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/pizzaparadise/static/js/main.9d736ec5.js",
+    "main.js": "/pizzaparadise/static/js/main.3c0cfd5c.js",
     "static/media/frenchfries3.png": "/pizzaparadise/static/media/frenchfries3.ae6f1202b3987c9a2085.png",
     "static/media/hamburger2.jpg": "/pizzaparadise/static/media/hamburger2.acbcd2133419d7c3096f.jpg",
     "static/media/pizza5.jpg": "/pizzaparadise/static/media/pizza5.4f98d99093a3564727d1.jpg",
@@ -15,9 +15,9 @@
     "static/media/pizza2.jpg": "/pizzaparadise/static/media/pizza2.4986a630663537285715.jpg",
     "static/media/pizza6.jpg": "/pizzaparadise/static/media/pizza6.d8ba615d52e110714e4e.jpg",
     "index.html": "/pizzaparadise/index.html",
-    "main.9d736ec5.js.map": "/pizzaparadise/static/js/main.9d736ec5.js.map"
+    "main.3c0cfd5c.js.map": "/pizzaparadise/static/js/main.3c0cfd5c.js.map"
   },
   "entrypoints": [
-    "static/js/main.9d736ec5.js"
+    "static/js/main.3c0cfd5c.js"
   ]
 }
